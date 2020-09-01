@@ -1,2 +1,4 @@
-# professional-biography
-Professional Biography for my Senior Design Class
+# Professional Biography
+# Contact Information
+# Co-op Work Experience
+# Project Sought
